@@ -30,7 +30,33 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import med_user from './med_user.png'
+import medstown2 from './medstown2.png'
+import medstown3 from './medstown3.png'
+import medstown4 from './medstown4.png'
+import external_link from './external_link.png'
+import canulo from './canulo.png'
+import crm from './crm.png'
+import munshijee from './munshijee.png'
+import riya from './riya.png'
+import transleter from './transleter.png'
+import netflix from './netflix.png'
+import lindin from './lindin.png'
+import twiter from './twiter.jpg'
+import instra from './instra.png'
+import whatsup from './whatsapp.png'
+
 export {
+  instra,
+  whatsup,
+  lindin,
+  twiter,
+  netflix,
+  transleter,
+  riya,
+  canulo,
+  crm,
+  munshijee,
   logo,
   backend,
   creator,
@@ -59,4 +85,10 @@ export {
   carrent,
   jobit,
   tripguide,
+  external_link,
+  med_user,
+  medstown2,
+  medstown3,
+  medstown4,
+
 };
